@@ -1,2 +1,2 @@
-# quant
-Self-study for Quant related resources
+# 量化交易学习笔记
+这是Sheldon的量化交易学习笔记
